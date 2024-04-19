@@ -7,7 +7,7 @@
 
 ### 1.效果展示
 
-https://github.com/coolEphemeroptera/VIVI/blob/main/img/demo.mp4
+https://private-user-images.githubusercontent.com/44800504/324058848-727dbf00-9347-4d25-9704-8b6d7938bfbe.mp4
 
 ### 2.软件界面
 
