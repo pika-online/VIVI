@@ -7,7 +7,7 @@
 
 ### 1.效果展示
 
-<video controls width="800" height="600">
+<video width="600" height="450" controls>
   <source src="img/demo.mp4" type="video/mp4">
 </video>
 
