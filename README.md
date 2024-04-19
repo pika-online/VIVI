@@ -7,9 +7,7 @@
 
 ### 1.效果展示
 
-<video width="600" height="450" controls>
-  <source src="img/demo.mp4" type="video/mp4">
-</video>
+![Video](https://github.com/username/repo/blob/main/video.mp4?raw=true)
 
 ### 2.软件界面
 
