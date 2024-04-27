@@ -2,7 +2,7 @@
 
 - 支持抖音，小红书，快手 一键推送
 - 支持youtube视频搬运
-
+- 下载地址：https://github.com/coolEphemeroptera/VIVI/releases/download/v1.0.0/release.zip
 <img src="img/icon.png">
 
 ### 1.使用教程
